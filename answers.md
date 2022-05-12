@@ -117,3 +117,21 @@ To https://github.com/iliasbaktybek/git-lab.git
  * [new branch]      master -> master
 branch 'master' set up to track 'origin/master'.
 "" 
+Answer 10: No, the file content has not been changed.
+
+Answer 11: The push command does not work.
+
+Answer 12: Yes, it changed.
+
+Answer 13: Volume in drive C is OS
+ Volume Serial Number is 8EAE-7929
+
+ Directory of C:\Users\Ilias Baktybek\2400\git-lab-2
+
+05/13/2022  12:00 AM    <DIR>          .
+05/13/2022  12:00 AM    <DIR>          ..
+05/13/2022  12:00 AM    <DIR>          .git
+05/13/2022  12:00 AM               302 .gitignore
+05/13/2022  12:00 AM                11 README.md
+               2 File(s)            313 bytes
+               3 Dir(s)  363,445,878,784 bytes free
